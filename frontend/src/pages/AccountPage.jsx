@@ -59,7 +59,7 @@ const AccountPage = () => {
   return (
     <div className="min-h-screen bg-[#101624] text-white flex items-center justify-center px-4 font-sans py-8">
       <div className="bg-[#151b29] w-full max-w-2xl rounded-2xl shadow-lg p-8">
-        <h1 className="text-3xl font-bold text-center mb-2 text-[#CBA244]">
+        <h1 className="md:text-4xl text-3xl font-bold text-center mb-2 text-[#CBA244]">
           Account Settings
         </h1>
         <p className="text-gray-400 text-center mb-6 text-sm">

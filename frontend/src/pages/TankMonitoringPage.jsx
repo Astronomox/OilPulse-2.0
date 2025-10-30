@@ -33,7 +33,7 @@ const TankMonitoringPage = () => {
 
   return (
     <div className="min-h-screen bg-[#101624] text-white p-6">
-      <h1 className="text-3xl font-bold mb-6 text-white">Tank Monitoring</h1>
+      <h1 className="md:text-4xl text-3xl font-bold mb-6 text-white">Tank Monitoring</h1>
 
       {/* Two-column layout: left = live tanks, right = recent events (inlined) */}
       <div className="flex flex-col gap-6">
